@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 <h3 align="center">A passionate Cloud-DevOps Engineer. Check out my latest projects and feel free to connect!</h3>
 
-<img align="right" alt="coding" width="400" src="https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d">
+<img align="right" alt="coding" width="500" src="https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d">
 
 
 
