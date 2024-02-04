@@ -1,27 +1,45 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 <h3 align="center">A passionate Cloud-DevOps Engineer. Check out my latest projects and feel free to connect!</h3>
 
-<img align="right" alt="coding" width="500" src="https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d">
+<img align="right" alt="coding" width="700" src="https://preview.redd.it/which-tool-is-used-to-make-deployment-diagrams-animated-v0-9mglchznt9db1.gif?width=1540&auto=webp&s=b355f467c74a1ced5b96a44fb11fc75acc30f67d">
 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsadminlogin&label=Profile%20views&color=0e75b6&style=flat" alt="devopsadminlogin" /> </p>
 
-- 🔭 I’m currently working on [Taletree](https://taletree.com/)
+### 🔭 I’m currently working on [Taletree](https://taletree.com/)
 
-- 🌱 I’m currently learning **- Advanced Kubernetes configurations - Helm charts for application packaging - Infrastructure as Code (IaC) with Terraform - Enhancing CI/CD pipelines using Jenkins - Monitoring solutions like Prometheus and Grafana - GitOps principles for continuous delivery**
+### 🌱 I’m currently learning **
+  - Advanced Kubernetes configurations
+  - Helm charts for application packaging
+  - Infrastructure as Code (IaC) with Terraform
+  - Enhancing CI/CD pipelines using Jenkins
+  - Monitoring solutions like Prometheus and Grafana
+  - GitOps principles for continuous delivery**
 
-- 👯 I’m looking to collaborate on [We360.ai](we360.ai)
+### 👯 I’m looking to collaborate on [We360.ai](we360.ai)
 
-- 🤝 I’m looking for help with [Rora-Films](https://app.secondsociety.io)
+### 🤝 I’m looking for help with [Rora-Films](https://app.secondsociety.io)
 
-- 💬 Ask me about **Implementing CI/CD pipelines for cloud-native applications - Docker and Kubernetes best practices - Infrastructure as Code (IaC) using Terraform and Ansible - Cloud architecture and optimization on AWS - Automation strategies for efficient DevOps workflows - Resilient and scalable system design - Troubleshooting and debugging in complex environments**
+### 💬 Ask me about **
+  - Implementing CI/CD pipelines for cloud-native applications
+  - Docker and Kubernetes best practices
+  - Infrastructure as Code (IaC) using Terraform and Ansible
+  - Cloud architecture and optimization on AWS
+  - Automation strategies for efficient DevOps workflows
+  - Resilient and scalable system design
+  - Troubleshooting and debugging in complex environments**
 
-- 📫 How to reach me **abhishekkp.dubey@gmail.com**
+### 📫 How to reach me **abhishekkp.dubey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/183DZ3QYAxwdI4ioRqnBGe5Onj31QuBws/view?usp=sharing](https://drive.google.com/file/d/183DZ3QYAxwdI4ioRqnBGe5Onj31QuBws/view?usp=sharing)
+### 📄 Know about my experiences [Resume](https://drive.google.com/file/d/183DZ3QYAxwdI4ioRqnBGe5Onj31QuBws/view?usp=sharing)
 
-- ⚡ Fun fact **- I once automated my entire morning routine with a series of scripts. - My first computer had just 256MB of RAM, and I thought it was incredibly powerful back then! - I enjoy incorporating humor into my code comments, making programming a bit more fun. - I can solve a Rubik's Cube in under two minutes. - During downtime, you'll find me experimenting with cooking recipes for the perfect code fuel.**
+### ⚡ Fun fact **
+  - I once automated my entire morning routine with a series of scripts.
+  - My first computer had just 256MB of RAM, and I thought it was incredibly powerful back then!
+  - I enjoy incorporating humor into my code comments, making programming a bit more fun.
+  - I can solve a Rubik's Cube in under two minutes.
+  - During downtime, you'll find me experimenting with cooking recipes for the perfect code fuel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
