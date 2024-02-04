@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abhishek Dubey</h1>
 <h3 align="center">A passionate Cloud-DevOps Engineer. Check out my latest projects and feel free to connect!</h3>
 
-<img align="right" alt="coding" width="400" src="[https://miro.medium.com/v2/resize:fit:679/1*DluPjzT_eTUFdzHCI7JBZA.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fantsitvlad.medium.com%2Fdevops-101-all-kind-of-you-need-to-know-about-devops-5bfca8656987&psig=AOvVaw1KZgmaI6garVHZZB_QbTFo&ust=1707153087155000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCH5vyWkoQDFQAAAAAdAAAAABAl)">
+<img align="right" alt="coding" width="400" src="https://github.com/devopsadminlogin/DevOpsAdminLogin/assets/156238296/4e04ddd1-91b1-460d-9e7a-874a34d8182b">
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=devopsadminlogin&label=Profile%20views&color=0e75b6&style=flat" alt="devopsadminlogin" /> </p>
 
