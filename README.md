@@ -42,13 +42,13 @@
   - I can solve a Rubik's Cube in under two minutes.
   - During downtime, you'll find me experimenting with cooking recipes for the perfect code fuel.**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left" style="color: red;">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/abhishekkpdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/abhishekkpdubey" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi_dubey225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi_dubey225" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/abhishekkpdubey" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="90" height="50"/> </a>
+<a href="https://instagram.com/abhi_dubey225" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="90" height="50"/> </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
+<h2 align="left" style="color: red;">Skills:</h2>
 <h3 align="left">Operating Systems:</h3>
 <align="left"> <a href="https://world.siteground.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/redhat/redhat-ar21.svg" alt="aws" width="90" height="50"/>
 <align="left"> <a href="https://www.linux.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg" alt="aws" width="90" height="50"/>
@@ -65,6 +65,7 @@
 <h3 align="left">Automation:</h3>
 <a href="https://docs.chef.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/chefio/chefio-ar21.svg" alt="chef" width="75" height="50"/> 
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/ansible/ansible-ar21.svg" alt="ansible" width="75" height="50"/> 
+<align="left"> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="90" height="50"/> </a>
 
 
 <h3 align="left">Databases:</h3>
@@ -97,7 +98,7 @@
 <align="left"> <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-ar21.svg" alt="Kubernetes" width="90" height="50"/> </a>  
 <align="left"> <a href="https://www.docker.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/docker/docker-official.svg" alt="docker" width="90" height="50"/> </a>
 <align="left"> <a href="https://git-scm.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" width="90" height="50"/> </a>
-<align="left"> <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-ar21.svg" alt="terraform" width="90" height="50"/> </a>
+
 <align="left"> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-ar21.svg" alt="jenkins" width="90" height="50"/> </a>
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="90" height="50"/> </a> 
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg" alt="Flask" width="90" height="50"/> </a> 
